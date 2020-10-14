@@ -1,3 +1,4 @@
 Testing source tree.
 Updated..
 Updated from local repo --updated again
+Merge conflict from local
